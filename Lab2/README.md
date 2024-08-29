@@ -17,7 +17,7 @@
 <br />
 <h3 align="center">Dave3625 - Lab2</h3>
 <p align="center">
-  <a href="https://github.com/umaimehm/Intro_to_AI_2021/tree/main/Lab2">
+  <a href="https://github.com/DAVE3625/DAVE3625-24H/tree/main/Lab2">
     <img src="img/header.png" alt="Data wrangling" width="auto" height="auto">
   </a>
 
@@ -27,9 +27,9 @@
     Feature engeneering - on the Titanic dataset <br \>This is a classic dataset used in many data mining tutorials and demos -- perfect for getting started with exploratory analysis and building binary classification models to predict survival.
     <br />
     ·
-    <a href="https://github.com/umaimehm/Intro_to_AI_2021/issues">Report Bug</a>
+    <a href="https://github.com/DAVE3625/DAVE3625-24H/issues">Report Bug</a>
     ·
-    <a href="https://github.com/umaimehm/Intro_to_AI_2021/issues">Request Feature</a>
+    <a href="https://github.com/DAVE3625/DAVE3625-24H/issues">Request Feature</a>
   </p>
 </p>
 
@@ -208,9 +208,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- shields -->
 [issues-shield]: https://img.shields.io/github/issues/umaimehm/Intro_to_AI_2021.svg?style=for-the-badge
-[issues-url]: https://github.com/umaimehm/Intro_to_AI_2021/issues
+[issues-url]: https://github.com/DAVE3625/DAVE3625-24H/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/umaimehm/Intro_to_AI_2021/blob/main/Lab1/LICENSE
+[license-url]: https://github.com/DAVE3625/DAVE3625-24H/blob/main/Lab1/LICENSE
 
 <!-- images -->
 [names]: img/names.png
