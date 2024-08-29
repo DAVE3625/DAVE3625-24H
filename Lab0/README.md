@@ -50,6 +50,8 @@ conda
 
 ### 2. Create a New Conda Environment
 
+Creating separate environments for different projects keeps everything organized and prevents dependency problems. It ensures that changes in one project won’t mess up another which will make your work easier to manage and debug.
+
 Create a new conda environment by using the `conda-env.yml`:
 
 ```bash
@@ -64,8 +66,6 @@ conda create -n myenvname python=3.8
 
 
 ### 3. Activate the Environment
-
-Creating separate environments for different projects keeps everything organized and prevents dependency problems. It ensures that changes in one project won’t mess up another which will make your work easier to manage and debug.
 
 Activate your new environment with the command:
 
