@@ -98,7 +98,11 @@ Create a new Jupyter Notebook by creating a file with a .ipynb extension (e.g., 
 ### 9. Open the Notebook in VSCode
 Open the notebook file in Visual Studio Code and select the dave3625 kernel in the top right.
 
-### Useful Tips
+
+## Part 2: Data Augmentation
+(Details for data augmentation tasks will follow in the upcoming labs, focusing on using pandas and other Python tools for data manipulation.)
+
+# Tips
 
 #### 1. **Choosing Between Anaconda and Miniconda**
    - **Anaconda**: Includes a large set of pre-installed packages, useful if you want everything set up quickly. However, it takes up more space (~3GB).
@@ -116,13 +120,10 @@ Open the notebook file in Visual Studio Code and select the dave3625 kernel in t
 #### 5. **Channel Priority**
    - Setting `channel_priority` to `strict` ensures that packages are installed from the highest-priority channel first, which can help avoid conflicts.
 
-#### 6. **Visual Studio Code Setup**
-   - Ensure that the Jupyter and Python extensions are installed in VS Code to enable seamless development in Jupyter Notebooks within the editor.
-
-#### 7. **Kernel Selection in VS Code**
+#### 6. **Kernel Selection in VS Code**
    - After opening a Jupyter Notebook in VS Code, ensure you select the correct Conda environment (e.g., `dave3625`) from the kernel dropdown in the top right corner to avoid import errors.
 
-### Useful Conda Commands
+# Useful Conda Commands
 
 #### 1. **Basic Conda Commands**
    - **Check Conda Version:**
@@ -177,18 +178,8 @@ Open the notebook file in Visual Studio Code and select the dave3625 kernel in t
      ```bash
      conda remove package_name
      ```
-
-#### 4. **Managing Channels**
-   - **Add a Channel:**
-     ```bash
-     conda config --add channels channel_name
-     ```
-   - **Set Channel Priority to Strict:**
-     ```bash
-     conda config --set channel_priority strict
-     ```
-
-#### 5. **Exporting and Importing Environments**
+     
+#### 4. **Exporting and Importing Environments**
    - **Export an Environment to a YAML File:**
      ```bash
      conda env export > environment.yml
@@ -198,7 +189,7 @@ Open the notebook file in Visual Studio Code and select the dave3625 kernel in t
      conda env create -f environment.yml
      ```
 
-#### 6. **Miscellaneous Commands**
+#### 5. **Miscellaneous Commands**
    - **List All Installed Packages in the Active Environment:**
      ```bash
      conda list
@@ -211,15 +202,6 @@ Open the notebook file in Visual Studio Code and select the dave3625 kernel in t
      ```bash
      conda clean --all
      ```
-
-### Tips
-- **Environment Isolation:** Always create a new environment for each project to prevent dependency conflicts.
-- **Channel Management:** Prioritize the use of `conda-forge` for a wider range of packages.
-- **Regular Updates:** Keep both Conda and your environments up to date to ensure compatibility and security.
-
-
-## Part 2: Data Augmentation
-(Details for data augmentation tasks will follow in the upcoming labs, focusing on using pandas and other Python tools for data manipulation.)
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
