@@ -43,7 +43,7 @@ This lab focuses on setting up the necessary environment for AI and data science
 
 Follow the instructions at [miniconda documentation] or [anaconda documentation] to download and install Conda.
 
-Test if conda was installed correctly by typing 
+Test if conda was installed correctly by typing in your CLI, terminal, miniconda or anaconda prompt window.
 ```bash
 conda
 ```
