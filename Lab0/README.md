@@ -96,5 +96,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES --> 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[issues-shield]: https://img.shields.io/github/issues/umaimehm/Intro_to_AI_2021.svg?style=for-the-badge
+[issues-url]: https://github.com/DAVE3625/DAVE3625-24H/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/DAVE3625/DAVE3625-24H/blob/main/Lab1/LICENSE
+
 [here]: https://code.visualstudio.com/
 [miniconda documentation]: https://docs.conda.io/en/latest/miniconda.html
