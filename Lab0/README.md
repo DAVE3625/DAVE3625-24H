@@ -50,7 +50,7 @@ conda
 
 ### 2. Create a New Conda Environment in your CLI (terminal if macOS, anaconda3 prompt if windows)
 
-Creating separate environments for different projects keeps everything organized and prevents dependency problems. It ensures that changes in one project won’t mess up another which will make your work easier to manage and debug.
+Creating separate environments for different projects keeps everything organized and prevents dependency problems. It makes sure that changes in one project won’t create issues in another, which will make your work easier to manage and debug.
 
 Create a new conda environment by using the `conda-env.yml`:
 
