@@ -64,6 +64,9 @@ conda create -n myenvname python=3.8
 
 
 ### 3. Activate the Environment
+
+Creating separate environments for different projects keeps everything organized and prevents dependency problems. It ensures that changes in one project won’t mess up another which will make your work easier to manage and debug.
+
 Activate your new environment with the command:
 
 ```bash
@@ -72,7 +75,7 @@ conda activate dave3625
 
 ### 4. Install Python Packages
 
-Install the required Python packages (pandas, numpy, matplotlib, scipy, jupyter notebook, ipykernel) using:
+You can install Python packages (pandas, numpy, matplotlib, scipy, jupyter notebook, ipykernel) using:
 
 ```bash 
 conda config --add channels conda-forge
