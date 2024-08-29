@@ -55,7 +55,7 @@ Creating separate environments for different projects keeps everything organized
 Create a new conda environment by using the `conda-env.yml`:
 
 ```bash
-conda create -f conda-env.yml
+conda env create -f conda-env.yml
 ```
 
 You can also create a new conda environment as follows:
