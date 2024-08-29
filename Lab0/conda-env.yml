@@ -1,0 +1,10 @@
+name: dave3625
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - jupyter
