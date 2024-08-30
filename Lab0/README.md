@@ -73,7 +73,9 @@ Activate your new environment with the command:
 conda activate dave3625
 ```
 
-### 4. Install Python Packages
+### 4. Install Python Packages (OPTIONAL)
+
+(If you created the environment with the .yml file you don't have to do this step)
 
 You can install Python packages (pandas, numpy, matplotlib, scipy, jupyter notebook, ipykernel) using:
 
