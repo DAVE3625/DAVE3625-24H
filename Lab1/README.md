@@ -24,7 +24,7 @@
   
 
   <p align="center">
-    An exercise in pandas for cleaning and plotting a small dataset <br \>The set contains 50 rows of: StudentID, Age, email, hrsStudy, FinalGrade
+    An exercise in pandas for cleaning and plotting a dataset <br \>
     <br />
     ·
     <a href="https://github.com/DAVE3625/DAVE3625-24H/issues">Report Bug</a>
