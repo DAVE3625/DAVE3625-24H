@@ -54,7 +54,9 @@ We will be using [pandas][pandas-doc], [matplotlib][matplotlib-doc], [seaborn][s
 <summary>Tasks for thursdays lab</summary>
 
   ## Tasks
+  
   **[Solution][Solution]**
+  
   **1. In this lab, you will import the csv file into pandas:**
   
   Hint: 
