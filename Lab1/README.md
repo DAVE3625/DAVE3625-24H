@@ -24,7 +24,7 @@
   
 
   <p align="center">
-    A exercise in pandas for cleaning and plotting a small dataset <br \>The set contains 50 rows of: StudentID, Age, email, hrsStudy, FinalGrade
+    An exercise in pandas for cleaning and plotting a small dataset <br \>The set contains 50 rows of: StudentID, Age, email, hrsStudy, FinalGrade
     <br />
     ·
     <a href="https://github.com/DAVE3625/DAVE3625-24H/issues">Report Bug</a>
@@ -36,9 +36,11 @@
 
 <!-- ABOUT THE LAB -->
 ## About The Lab
-Most of the time spent working on AI, is actually time spent preparing data. You need to figure out what datapoints to use, and if you can combine datapoints to get a better model. 
+Most of the time spent working on AI is time spent preparing data. You need to figure out what data points to use, and if you can combine data points to get a better model. 
 
-During this weeks first lab we will do a deep dive into Pandas DataFrames and look at visualization libraries like Matplotlib, Seaborn and plotly.
+During this week's first lab, we will do a deep dive into [Pandas][Pandas] DataFrames and look at visualization libraries like Matplotlib, Seaborn, and plotly.
+
+
 
 The second lab this week will involve going through the student dataset in the file stud.csv. 
 
@@ -155,7 +157,7 @@ We will be using [pandas][pandas-doc] and [numpy][numpy-doc].
   **A:**
   
   1.  If you get an error and your code looks correct, try to reinstall matplotlib.
-      Go to your conda promt (make sure your in the right env) and write:
+      Go to your conda prompt (make sure you're in the right env) and write:
       ```
       conda uninstall matplotlib
       conda update
@@ -185,13 +187,13 @@ We will be using [pandas][pandas-doc] and [numpy][numpy-doc].
   ```
   **Q: Can you provide some tutorials for jupyter and pandas?**
   
-  I need some good tutorials to get me started. Can you recomend any?
+  I need some good tutorials to get me started. Can you recommend any?
   
   **A: Yes**
   
-  If you are new to jupyter notebook and pandas [this youtube video][jupyter-tutorial] will be usefull.
+  If you are new to jupyter notebook and pandas [this youtube video][jupyter-tutorial] will be useful.
   
-  [This site][pandas-tutorial] cover many important aspects of pandas, and I use it often as a refrence.
+  [This site][pandas-tutorial] covers many important aspects of pandas, and I use it often as a reference.
 
 </details>
 
@@ -221,4 +223,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [pandas-tutorial]: https://github.com/TirendazAcademy/PANDAS-TUTORIAL
 [jupyter-tutorial]: https://www.youtube.com/watch?v=vmEHCJofslg
 [solution]: Solution.ipynb
-
+[Pandas]: Pandas.ipynb
