@@ -47,7 +47,7 @@ The second lab this week will involve going through the student dataset in the f
 That DataFrame has 50 entries with:
 StudentID, Age, email, hrsStudy, FinalGrade
 
-We will be using [pandas][pandas-doc] and [numpy][numpy-doc].
+We will be using [pandas][pandas-doc], [matplotlib][matplotlib-doc], [seaborn][seaborn-doc] and [numpy][numpy-doc].
 
 
 **[Solution added][Solution]**
@@ -216,6 +216,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [dfinfo]: img/dfinfo.png
 [barplot]: img/barplot.png
+[seaborn-doc]: https://seaborn.pydata.org/
+[matplotlib-doc]: https://matplotlib.org/stable/index.html
 [pandas-doc]: https://pandas.pydata.org/docs/reference/index.html#api
 [numpy-doc]: https://numpy.org/doc/stable/
 [columns-condition]: https://www.dataquest.io/blog/tutorial-add-column-pandas-dataframe-based-on-if-else-condition/
