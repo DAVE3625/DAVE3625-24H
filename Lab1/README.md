@@ -50,11 +50,11 @@ StudentID, Age, email, hrsStudy, FinalGrade
 We will be using [pandas][pandas-doc], [matplotlib][matplotlib-doc], [seaborn][seaborn-doc] and [numpy][numpy-doc].
 
 
-**[Solution added][Solution]**
 <details>
 <summary>Tasks for thursdays lab</summary>
 
   ## Tasks
+  **[Solution][Solution]**
   **1. In this lab, you will import the csv file into pandas:**
   
   Hint: 
