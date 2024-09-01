@@ -38,16 +38,17 @@
 ## About The Lab
 Most of the time spent working on AI is time spent preparing data. You need to figure out what data points to use, and if you can combine data points to get a better model. 
 
-During this week's first lab, we will do a deep dive into [Pandas][Pandas] DataFrames and look at visualization libraries like Matplotlib, Seaborn, and plotly.
+During this week's first lab, we will do a deep dive into [Pandas][Pandas] DataFrames and look at visualization libraries like Matplotlib, Seaborn, and Plotly.
+
+We will be using [pandas][pandas-doc], [matplotlib][matplotlib-doc], [seaborn][seaborn-doc] and [numpy][numpy-doc].
 
 
+----------------------------------------------
 
-The second lab this week will involve going through the student dataset in the file stud.csv. 
+This week's second lab will involve going through the student dataset in the file stud.csv. 
 
 That DataFrame has 50 entries with:
 StudentID, Age, email, hrsStudy, FinalGrade
-
-We will be using [pandas][pandas-doc], [matplotlib][matplotlib-doc], [seaborn][seaborn-doc] and [numpy][numpy-doc].
 
 
 <details>
