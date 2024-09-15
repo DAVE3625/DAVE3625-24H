@@ -44,14 +44,6 @@
    - [Instructions](#instructions)
 2. [New Imports](#new-imports)
 3. [Tasks](#tasks)
-   - [Task 1: Split the Dataset](#task-1-split-the-dataset)
-   - [Task 2: Create a New Feature 'TravelAlone'](#task-2-create-a-new-feature-travelalone)
-   - [Task 3: Explore the Data](#task-3-explore-the-data)
-   - [Task 4: Compute the Correlation Matrix](#task-4-compute-the-correlation-matrix)
-   - [Task 5: Perform Feature Selection with RFE](#task-5-perform-feature-selection-with-rfe)
-   - [Task 6: Build and Evaluate the Logistic Regression Model](#task-6-build-and-evaluate-the-logistic-regression-model)
-   - [Task 7: Understand Evaluation Metrics](#task-7-understand-evaluation-metrics)
-   - [Task 8: Cross-Validation](#task-8-cross-validation)
 4. [Conclusion](#conclusion)
 5. [Useful Links](#useful-links)
 6. [License](#license)
@@ -125,7 +117,7 @@ Load the titanic dataset that we cleaned in the last lab, it's found under /data
 
 
 ## Tasks
-**Task 1: Split the Dataset**
+###**Task 1: Split the Dataset**
 We need to split the dataset into two parts:
 - Training Set (df_train): Contains passengers with known 'Survived' values.
 - Test Set (df_test): Contains passengers with missing 'Survived' values.
