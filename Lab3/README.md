@@ -88,6 +88,8 @@ Good luck, and enjoy the lab!
 
 We will use a new package in this lab. Install it in anaconda prompt (terminal for mac) with:
 
+(Remember ```conda activate DAVEE3625``` first.)
+
 With pip:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
