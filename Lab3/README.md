@@ -117,7 +117,7 @@ Load the titanic dataset that we cleaned in the last lab, it's found under /data
 
 
 ## Tasks
-###**Task 1: Split the Dataset**
+**Task 1: Split the Dataset**
 We need to split the dataset into two parts:
 - Training Set (df_train): Contains passengers with known 'Survived' values.
 - Test Set (df_test): Contains passengers with missing 'Survived' values.
