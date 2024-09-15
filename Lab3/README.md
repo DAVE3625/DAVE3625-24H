@@ -333,10 +333,13 @@ You can find usefull information about feature engeneering [here][feature-eng-tu
 
 You can find useful information about logistic regression [here][sklearn-logreg].
 
-[pandas cheatsheet][pandas-cheatsheet].
-[matplotlib cheatsheet][matplotlib-cheatsheet].
-[seaborn cheatsheet][seaborn-cheatsheet].
-[sklearn cheatsheet][sklearn-cheatsheet].
+[pandas cheatsheet][pandas-cheatsheet]
+
+[matplotlib cheatsheet][matplotlib-cheatsheet]
+
+[seaborn cheatsheet][seaborn-cheatsheet]
+
+[sklearn cheatsheet][sklearn-cheatsheet]
 
 
 <!-- LICENSE -->
