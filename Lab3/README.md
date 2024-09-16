@@ -80,7 +80,7 @@ In this lab, you will work with the Titanic dataset to predict passenger surviva
 - Understand evaluation metrics such as confusion matrix, accuracy, log loss, and AUC.
 - Perform cross-validation.
 
-1. **Check the Solution**: Try your best before looking at the **[solution][solution]**.
+**Check the Solution**: Try your best before looking at the **[solution][solution]**.
 
 Good luck, and enjoy the lab!
 
