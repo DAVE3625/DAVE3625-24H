@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  KNN, SVM, and Random Forest Classification on Wine Quality Dataset<br>
+  KNN and SVM on Wine Quality Dataset<br>
   <br />
   ·
   <a href="https://github.com/DAVE3625/DAVE3625-24H/issues">Report Bug</a>
