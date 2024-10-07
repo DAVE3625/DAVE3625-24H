@@ -390,7 +390,7 @@ For a more in-depth understanding of Random Forests, check out this excellent 2 
 [![StatQuest: Random Forests Part 2](https://img.youtube.com/vi/sQ870aTKqiM/0.jpg)](https://www.youtube.com/watch?v=sQ870aTKqiM&ab_channel=StatQuestwithJoshStarmer)
 
 Readings:
-- [Random Forest Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/random-forest-algorithm/)
+- [Random Forest Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning/)
 
 ****
 
