@@ -468,8 +468,7 @@ In this section, you will reflect on the tasks you have completed and consider a
 2. **Feature Importance**: How important were the features G1, G2, and G3 in predicting the target variable? How would the model performance change if you removed these features from the dataset?
 3. **Data Preprocessing**: How did data preprocessing steps like feature scaling and handling missing values impact the performance of the models?
 4. **Model Selection**: If you had to choose one model for deployment, which one would it be and why? Consider factors like accuracy, interpretability, and computational efficiency.
-5. **Hyperparameter Tuning**: How did hyperparameter tuning (e.g., choosing the optimal value of K for KNN) affect the performance of the models? What other hyperparameters could you tune to potentially improve the models?
-6. **Overfitting and Underfitting**: Did you observe any signs of overfitting or underfitting in your models? How did you address these issues? or how could you address these issues in the future?
+5. **Hyperparameter Tuning**: How did hyperparameter tuning affect the performance of the models? What other hyperparameters could you tune to potentially improve the models?
 
 ### Additional Challenges
 
