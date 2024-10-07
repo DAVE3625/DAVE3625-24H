@@ -450,6 +450,7 @@ Let's apply a Naive Bayes classifier and evaluate its performance.
 For a more in-depth understanding of Naive Bayes, check out this excellent video from StatQuest:
 
 [![StatQuest: Naive Bayes](https://img.youtube.com/vi/O2L2Uv9pdDA/0.jpg)](https://www.youtube.com/watch?v=O2L2Uv9pdDA&ab_channel=StatQuestwithJoshStarmer)
+
 [![StatQuest: Gaussian Naive Bayes](https://img.youtube.com/vi/H3EjCKtlVog/0.jpg)](https://www.youtube.com/watch?v=H3EjCKtlVog)
 
 Readings:
